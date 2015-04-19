@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ComposIT", "ComposIT", "{EBC14A05-507F-44FE-8E0E-770EAB761527}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ComposIT.Shared", "ComposIT\ComposIT.Shared\ComposIT.Shared.shproj", "{31084557-0754-4761-BB32-1F703DCA19F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposIT.Windows", "ComposIT\ComposIT.Windows\ComposIT.Windows.csproj", "{76FC4DCC-1B1A-47B2-8325-3FB756255037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposIT.WindowsPhone", "ComposIT\ComposIT.WindowsPhone\ComposIT.WindowsPhone.csproj", "{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ComposIT\ComposIT.Shared\ComposIT.Shared.projitems*{31084557-0754-4761-bb32-1f703dca19f1}*SharedItemsImports = 13
+		ComposIT\ComposIT.Shared\ComposIT.Shared.projitems*{46cf5345-aed5-4c7d-9e8c-c52efed5626e}*SharedItemsImports = 4
+		ComposIT\ComposIT.Shared\ComposIT.Shared.projitems*{76fc4dcc-1b1a-47b2-8325-3fb756255037}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://renebr.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ComposIT\\ComposIT.Shared\\ComposIT.Shared.projitems
+		SccProjectTopLevelParentUniqueName1 = ComposIT.sln
+		SccProjectName1 = ComposIT/ComposIT.Shared
+		SccLocalPath1 = ComposIT\\ComposIT.Shared
+		SccProjectUniqueName2 = ComposIT\\ComposIT.Shared\\ComposIT.Shared.shproj
+		SccProjectTopLevelParentUniqueName2 = ComposIT.sln
+		SccProjectName2 = ComposIT/ComposIT.Shared
+		SccLocalPath2 = ComposIT\\ComposIT.Shared
+		SccProjectUniqueName3 = ComposIT\\ComposIT.Windows\\ComposIT.Windows.csproj
+		SccProjectTopLevelParentUniqueName3 = ComposIT.sln
+		SccProjectName3 = ComposIT/ComposIT.Windows
+		SccLocalPath3 = ComposIT\\ComposIT.Windows
+		SccProjectUniqueName4 = ComposIT\\ComposIT.WindowsPhone\\ComposIT.WindowsPhone.csproj
+		SccProjectTopLevelParentUniqueName4 = ComposIT.sln
+		SccProjectName4 = ComposIT/ComposIT.WindowsPhone
+		SccLocalPath4 = ComposIT\\ComposIT.WindowsPhone
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|ARM.ActiveCfg = Debug|ARM
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|ARM.Build.0 = Debug|ARM
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|ARM.Deploy.0 = Debug|ARM
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|x64.ActiveCfg = Debug|x64
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|x64.Build.0 = Debug|x64
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|x64.Deploy.0 = Debug|x64
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|x86.ActiveCfg = Debug|x86
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|x86.Build.0 = Debug|x86
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Debug|x86.Deploy.0 = Debug|x86
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|ARM.ActiveCfg = Release|ARM
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|ARM.Build.0 = Release|ARM
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|ARM.Deploy.0 = Release|ARM
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|x64.ActiveCfg = Release|x64
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|x64.Build.0 = Release|x64
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|x64.Deploy.0 = Release|x64
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|x86.ActiveCfg = Release|x86
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|x86.Build.0 = Release|x86
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037}.Release|x86.Deploy.0 = Release|x86
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|ARM.Build.0 = Debug|ARM
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|x86.ActiveCfg = Debug|x86
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|x86.Build.0 = Debug|x86
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Debug|x86.Deploy.0 = Debug|x86
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|ARM.ActiveCfg = Release|ARM
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|ARM.Build.0 = Release|ARM
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|ARM.Deploy.0 = Release|ARM
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|x64.ActiveCfg = Release|Any CPU
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|x86.ActiveCfg = Release|x86
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|x86.Build.0 = Release|x86
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31084557-0754-4761-BB32-1F703DCA19F1} = {EBC14A05-507F-44FE-8E0E-770EAB761527}
+		{76FC4DCC-1B1A-47B2-8325-3FB756255037} = {EBC14A05-507F-44FE-8E0E-770EAB761527}
+		{46CF5345-AED5-4C7D-9E8C-C52EFED5626E} = {EBC14A05-507F-44FE-8E0E-770EAB761527}
+	EndGlobalSection
+EndGlobal

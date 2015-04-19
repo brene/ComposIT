@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RENE-SURFACEPRO</Machine>
+    <WindowsUser>Rene</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8fee5bdf-1235-47e9-8a20-7448c8b93ded</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8785C24E0DE3AEC584A73143DA3944915A9E21968BBA5C39FAA14CDB6B58C376</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8fee5bdf-1235-47e9-8a20-7448c8b93ded_1.0.0.0_neutral__nndvke9b40z48</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8fee5bdf-1235-47e9-8a20-7448c8b93ded_nndvke9b40z48!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8fee5bdf-1235-47e9-8a20-7448c8b93ded</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rene</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-19T07:18:46.681</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\ComposIT.Windows.exe">
+      <PackagePath>ComposIT.Windows.exe</PackagePath>
+      <Modified>2015-04-19T08:08:39.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Animation-01.png">
+      <PackagePath>Assets\Animation-01.png</PackagePath>
+      <Modified>2015-04-18T22:06:10.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Arrow-Expand.png">
+      <PackagePath>Assets\Arrow-Expand.png</PackagePath>
+      <Modified>2015-04-18T22:06:10.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Cards Add.png">
+      <PackagePath>Assets\Cards Add.png</PackagePath>
+      <Modified>2015-04-18T22:06:10.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Cards Delete.png">
+      <PackagePath>Assets\Cards Delete.png</PackagePath>
+      <Modified>2015-04-18T22:06:10.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Data-Export.png">
+      <PackagePath>Assets\Data-Export.png</PackagePath>
+      <Modified>2015-04-18T22:17:03.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Document-Add.png">
+      <PackagePath>Assets\Document-Add.png</PackagePath>
+      <Modified>2015-04-19T08:08:19.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Mouse-Drag.png">
+      <PackagePath>Assets\Mouse-Drag.png</PackagePath>
+      <Modified>2015-04-19T08:06:18.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Selection-Modes.png">
+      <PackagePath>Assets\Selection-Modes.png</PackagePath>
+      <Modified>2015-04-18T22:06:10.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-18T23:50:28.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Text-Editor.png">
+      <PackagePath>Assets\Text-Editor.png</PackagePath>
+      <Modified>2015-04-18T22:06:10.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-18T09:55:11.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\Pages\EditPage.xbf">
+      <PackagePath>View\Pages\EditPage.xbf</PackagePath>
+      <Modified>2015-04-19T08:08:38.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\Pages\MainPage.xbf">
+      <PackagePath>View\Pages\MainPage.xbf</PackagePath>
+      <Modified>2015-04-18T12:09:25.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\CodePanel.xbf">
+      <PackagePath>View\ViewControls\CodePanel.xbf</PackagePath>
+      <Modified>2015-04-18T23:12:42.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\DrawingCanvas.xbf">
+      <PackagePath>View\ViewControls\DrawingCanvas.xbf</PackagePath>
+      <Modified>2015-04-19T08:08:38.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ImageButtons\AbstractImageButton.xbf">
+      <PackagePath>View\ViewControls\ImageButtons\AbstractImageButton.xbf</PackagePath>
+      <Modified>2015-04-18T23:26:36.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ImageButtons\GalleryIcon.xbf">
+      <PackagePath>View\ViewControls\ImageButtons\GalleryIcon.xbf</PackagePath>
+      <Modified>2015-04-19T02:35:47.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ClassGallery.xbf">
+      <PackagePath>View\ViewControls\ClassGallery.xbf</PackagePath>
+      <Modified>2015-04-19T01:35:20.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\AttributeFlyout.xbf">
+      <PackagePath>View\ViewControls\AttributeFlyout.xbf</PackagePath>
+      <Modified>2015-04-19T04:11:07.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\InstanceFlyout.xbf">
+      <PackagePath>View\ViewControls\InstanceFlyout.xbf</PackagePath>
+      <Modified>2015-04-19T03:40:43.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\PropertiesPanel.xbf">
+      <PackagePath>View\ViewControls\PropertiesPanel.xbf</PackagePath>
+      <Modified>2015-04-19T07:18:45.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ToolButtons\AbstractButton.xbf">
+      <PackagePath>View\ViewControls\ToolButtons\AbstractButton.xbf</PackagePath>
+      <Modified>2015-04-18T23:12:42.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ToolPanel.xbf">
+      <PackagePath>View\ViewControls\ToolPanel.xbf</PackagePath>
+      <Modified>2015-04-19T08:08:38.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\ComposIT.Windows.xr.xml">
+      <PackagePath>ComposIT.Windows.xr.xml</PackagePath>
+      <Modified>2015-04-19T08:08:38.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-19T07:18:46.485</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

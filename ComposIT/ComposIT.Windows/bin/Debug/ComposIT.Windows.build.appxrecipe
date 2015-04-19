@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RENE-SURFACEPRO</Machine>
+    <WindowsUser>Rene</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8fee5bdf-1235-47e9-8a20-7448c8b93ded</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\ComposIT.Windows.exe">
+      <PackagePath>ComposIT.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Animation-01.png">
+      <PackagePath>Assets\Animation-01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Arrow-Expand.png">
+      <PackagePath>Assets\Arrow-Expand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Cards Add.png">
+      <PackagePath>Assets\Cards Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Cards Delete.png">
+      <PackagePath>Assets\Cards Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Data-Export.png">
+      <PackagePath>Assets\Data-Export.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Document-Add.png">
+      <PackagePath>Assets\Document-Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Mouse-Drag.png">
+      <PackagePath>Assets\Mouse-Drag.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Selection-Modes.png">
+      <PackagePath>Assets\Selection-Modes.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\Assets\Text-Editor.png">
+      <PackagePath>Assets\Text-Editor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\Pages\EditPage.xbf">
+      <PackagePath>View\Pages\EditPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\Pages\MainPage.xbf">
+      <PackagePath>View\Pages\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\CodePanel.xbf">
+      <PackagePath>View\ViewControls\CodePanel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\DrawingCanvas.xbf">
+      <PackagePath>View\ViewControls\DrawingCanvas.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ImageButtons\AbstractImageButton.xbf">
+      <PackagePath>View\ViewControls\ImageButtons\AbstractImageButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ImageButtons\GalleryIcon.xbf">
+      <PackagePath>View\ViewControls\ImageButtons\GalleryIcon.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ClassGallery.xbf">
+      <PackagePath>View\ViewControls\ClassGallery.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\AttributeFlyout.xbf">
+      <PackagePath>View\ViewControls\AttributeFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\InstanceFlyout.xbf">
+      <PackagePath>View\ViewControls\InstanceFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\PropertiesPanel.xbf">
+      <PackagePath>View\ViewControls\PropertiesPanel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ToolButtons\AbstractButton.xbf">
+      <PackagePath>View\ViewControls\ToolButtons\AbstractButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\View\ViewControls\ToolPanel.xbf">
+      <PackagePath>View\ViewControls\ToolPanel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\ComposIT.Windows.xr.xml">
+      <PackagePath>ComposIT.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rene\documents\visual studio 2013\Projects\ComposIT\ComposIT\ComposIT.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
